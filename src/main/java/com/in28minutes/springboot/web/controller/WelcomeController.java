@@ -7,7 +7,7 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-//Sample Controller
+//Sample Controller for dry run from branch2
 @Controller
 public class WelcomeController {
 
